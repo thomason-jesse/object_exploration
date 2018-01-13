@@ -1,0 +1,4 @@
+Copied from ispy_sysnets/ code extraction.
+
+uni - uniform labelings only (predicate, object pairs with both positive and negative labels dropped;
+45 / 753 such pairs exist)
